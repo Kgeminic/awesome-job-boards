@@ -113,6 +113,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 - [Built In](https://builtin.com/) | Connects tech professionals with startups and companies.
 - [Contra](https://contra.com/) | Job board for freelance creatives.
+- [UI/UX Jobs Board](https://uiuxjobsboard.com/)
 
 ## InfoSec
 
