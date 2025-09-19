@@ -114,6 +114,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [Built In](https://builtin.com/) | Connects tech professionals with startups and companies.
 - [Contra](https://contra.com/) | Job board for freelance creatives.
 - [UI/UX Jobs Board](https://uiuxjobsboard.com/)
+- [CreativeFuego Jobs](https://creativefuego.com/jobs) - A job board for creatives
 
 ## InfoSec
 
