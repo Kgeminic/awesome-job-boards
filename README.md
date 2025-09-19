@@ -675,6 +675,7 @@ Explore top job boards worldwide designed to connect employers with candidates a
 - [jober](https://www.jober.pl/) | Free job posting portal (Job board).
 - [KarierawFinansach](https://www.karierawfinansach.pl/) | Focused on finance, banking, insurance, and BPO/SSC sectors (Job board).
 - [Skillshot](https://www.skillshot.pl/) | Job offers in the gaming industry (Job board).
+- [Jobo](https://www.jobo.pl/) | 100% remote-only job board from Poland, featuring verified offers in IT, marketing, finance, and more (Remote job board).
 
 ## Portugal
 
