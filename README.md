@@ -1,8 +1,12 @@
-# Awesome Job Boards (All Job Boards)
+# Awesome Job Boards 🚀
 
-[//]: # "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![npm version](https://badge.fury.io/js/awesome-job-boards.svg)](https://badge.fury.io/js/awesome-job-boards)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Explore top job boards worldwide designed to connect employers with candidates and candidates with employers quickly.
+> A curated list of awesome job boards worldwide designed to connect employers with candidates and candidates with employers quickly.
+
+This comprehensive collection features 700+ job boards across different categories, technologies, regions, and specializations. Whether you're a developer, designer, data scientist, or looking for remote opportunities, this list has something for everyone.
 
 ![Awesome Job Boards (All Job Boards)](https://github.com/idimetrix/awesome-job-boards/blob/main/awesome-job-boards.jpeg?raw=true)
 
@@ -732,3 +736,26 @@ Explore top job boards worldwide designed to connect employers with candidates a
 ### Kenya
 
 - [Hired jobs](https://www.hired.co.ke)
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md) first.
+
+To add a new job board:
+
+1. Fork this repository
+2. Add your job board to the appropriate category
+3. Make sure it follows the format: `- [Name](URL) | Description (if needed)`
+4. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ⭐ Support
+
+If you find this list helpful, please consider giving it a star! ⭐
+
+---
+
+**Made with ❤️ by the community**

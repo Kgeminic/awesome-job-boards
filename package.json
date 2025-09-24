@@ -1,7 +1,7 @@
 {
   "name": "awesome-job-boards",
   "description": "Explore top job boards worldwide designed to connect employers with candidates and candidates with employers quickly.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "author": {
     "name": "Dmitrii Selikhov",
@@ -37,12 +37,20 @@
     "awesome-job",
     "awesome-jobs"
   ],
-  "files": ["package.json", "README.md"],
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "awesome-job-boards.jpeg"
+  ],
   "main": "index.js",
   "scripts": {
-    "prettier": "prettier --write README.md"
+    "prettier": "prettier --write README.md",
+    "format": "prettier --write .",
+    "lint": "prettier --check .",
+    "prepublishOnly": "npm run lint"
   },
   "dependencies": {
-    "prettier": "3.3.3"
+    "prettier": "^3.6.2"
   }
 }
