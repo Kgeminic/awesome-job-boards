@@ -216,6 +216,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [wellpaid.io](https://wellpaid.io/)
 - [NODESK Remote Jobs](https://nodesk.co/remote-jobs/)
 - [FlexJobs](https://www.flexjobs.com/)
+- [4DayJob](https://4dayjob.com/) | 4-day work week and reduced-hour jobs across all industries
 - [RMTWRK](https://rmtwrk.com/)
 - [remotify](https://remotify.me/)
 - [Remoters](https://remoters.net/jobs/)
