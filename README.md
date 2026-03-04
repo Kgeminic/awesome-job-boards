@@ -717,6 +717,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [RemoteScout](https://remotescout.ch)
 - [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
+- [Omnes Group](https://www.omnesgroup.com/search-jobs/) Europe
 
 ### Turkey
 
