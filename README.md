@@ -509,6 +509,7 @@ This comprehensive collection features 700+ job boards across different categori
 - [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) | Free daily-updated Canadian student and recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences.
 - [jobgurus](https://ca.jobgurus.net/)
 - [betakit](https://betakit.com/jobs/) | Startup news site with a jobs board (Job board).
 - [Prospect](https://www.prospect.fyi/) | Career network built by-and-for the Canadian tech startup ecosystem (Job board).
